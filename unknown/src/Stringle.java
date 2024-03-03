@@ -1,0 +1,3 @@
+class Striangle extends Triangle{
+
+}
